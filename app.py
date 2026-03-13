@@ -25,7 +25,7 @@ def get_marker_color(incident):
 
 def load_fire_data():
     try:
-        fire_data = pd.read_csv("data/sample_wildfires.csv")
+        fire_data = pd.read_csv("sample_wildfires.csv")
         return fire_data
     except Exception:
         return None
@@ -54,11 +54,11 @@ with st.expander("Why this matters"):
     )
 
 # ---------- Data ----------
-data = pd.read_csv("data/sample_incidents.csv")
+data = pd.read_csv("sample_incidents.csv")
 fire_data = load_fire_data()
-rainfall_data = pd.read_csv("data/sample_rainfall.csv")
-hazard_profile = pd.read_csv("data/district_hazard_profile.csv")
-district_coords = pd.read_csv("data/district_coordinates.csv")
+rainfall_data = pd.read_csv("sample_rainfall.csv")
+hazard_profile = pd.read_csv("district_hazard_profile.csv")
+district_coords = pd.read_csv("district_coordinates.csv")
 
 # ---------- Risk Logic ----------
 risk_rows = []
