@@ -1,0 +1,13 @@
+district,local_level,incident,incident_date,latitude,longitude,affected_families,estimated_loss_npr
+Tanahu,Vyas Municipality,Fire,2026-03-13,27.998,84.250,2,200000
+Dang,Rajpur Rural Municipality,Fire,2026-03-13,28.050,82.590,2,0
+Bara,Kalaiya Submetropolitan City,Fire,2026-03-12,27.030,85.000,1,0
+Jhapa,Birtamod Municipality,Heavy Rainfall,2026-03-12,26.650,87.990,1,900000
+Kathmandu,Gokarneshwor Municipality,Fire,2026-03-12,27.740,85.420,1,0
+Jhapa,Haldibari Rural Municipality,Windstorm,2026-03-12,26.570,88.080,1,0
+Panchthar,Phidim Municipality,Flood,2026-03-12,27.130,87.770,0,0
+Bhojpur,Bhojpur Municipality,Snake Bite,2026-03-12,27.170,87.050,1,0
+Saptari,Tirahut Rural Municipality,Fire,2026-03-12,26.560,86.750,1,220000
+Makwanpur,Hetauda Submetropolitan City,Fire,2026-03-12,27.430,85.030,1,400000
+Sindhupalchok,Chautara Sangachokgadhi Municipality,Landslide Risk Signal,2026-03-13,27.800,85.700,0,0
+Dolakha,Bhimeshwor Municipality,Landslide Risk Signal,2026-03-13,27.670,86.030,0,0

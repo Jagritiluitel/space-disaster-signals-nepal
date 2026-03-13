@@ -1,0 +1,14 @@
+district,is_mountainous,is_flood_prone,is_landslide_prone,notes
+Sindhupalchok,yes,no,yes,Steep terrain and landslide history
+Dolakha,yes,no,yes,Mountainous and landslide-prone
+Jhapa,no,yes,no,Lowland and flood-prone
+Kailali,no,yes,no,Terai flood exposure
+Rukum,yes,no,yes,Mountainous terrain
+Kathmandu,no,no,no,Urban basin with lower immediate hazard in this prototype
+Tanahu,yes,no,yes,Hilly district with landslide exposure
+Panchthar,yes,no,yes,Steep and rain-sensitive terrain
+Dang,no,yes,no,Inner Terai flood exposure
+Bara,no,yes,no,Lowland flood exposure
+Makwanpur,yes,no,yes,Hilly terrain
+Saptari,no,yes,no,Terai flood exposure
+Bhojpur,yes,no,yes,Mountain district

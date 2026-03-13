@@ -1,0 +1,9 @@
+district,rainfall_mm,risk_level,reason
+Sindhupalchok,145,High,Heavy rainfall in steep terrain
+Dolakha,132,High,Heavy rainfall in landslide-prone terrain
+Jhapa,118,Medium,Heavy rainfall in flood-prone district
+Kailali,126,High,Heavy rainfall and flood exposure
+Rukum,95,Medium,Elevated rainfall in mountainous area
+Kathmandu,42,Low,No major rainfall concern
+Tanahu,55,Low,Moderate rainfall only
+Panchthar,110,Medium,Heavy rainfall in vulnerable terrain
