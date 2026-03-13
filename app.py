@@ -7,6 +7,8 @@ from streamlit_folium import st_folium
 
 st.set_page_config(page_title="Space Disaster Signals - Nepal", layout="wide")
 
+st.caption("Build test")
+
 # ---------- Helpers ----------
 def get_marker_color(incident):
     if incident == "Fire":
